@@ -60,7 +60,8 @@
     
 }
 ul {
-    
+    padding-left: 0;
+    padding-right: 0;
     font-weight: lighter;
     display: flex;
     list-style: none;
