@@ -33,7 +33,7 @@
     padding-bottom: 50px;
 }
 
-@media only screen and (max-width: 600pts;) {
+@media only screen and (max-width: 600px;) {
     .bottom {
         height: 400px;
     }
