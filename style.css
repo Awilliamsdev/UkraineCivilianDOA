@@ -37,6 +37,10 @@
     .bottom {
         height: 400px;
     }
+    
+    .nav {
+        display: flex;
+        justify-content: space-around;
 }
 
 .bottom h3 {
