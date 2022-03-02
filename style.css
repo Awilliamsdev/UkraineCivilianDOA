@@ -27,10 +27,16 @@
     flex-direction: column;
     align-items: center;
    /* background-color: rgba(143, 138, 138); */
-    height: 400px;
+    height: 300px;
     background-color: #005BBB;
     color: whitesmoke;
     padding-bottom: 50px;
+}
+
+@media screen (max-width: 600px;) {
+    .bottom {
+        height: 400px;
+    }
 }
 
 .bottom h3 {
