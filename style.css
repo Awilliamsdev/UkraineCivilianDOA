@@ -47,7 +47,9 @@
     padding-top: 10px;
     }
     
-  
+  ul {
+      margin: 40px 100px;
+    }
 }
     
 
@@ -87,7 +89,7 @@ ul {
     justify-content: space-around;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
     Helvetica, Arial, "Lucida Grande", sans-serif;
-    margin: 40px 100px;
+    
     
 }
 
