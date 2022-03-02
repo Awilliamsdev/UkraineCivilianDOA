@@ -38,6 +38,10 @@
         height: 420px;
     }
     
+    .header img {
+    width: auto;
+    height: auto;
+    }
     .nav {
         display: flex;
 
