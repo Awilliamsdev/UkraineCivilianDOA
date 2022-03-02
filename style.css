@@ -41,7 +41,15 @@
     .nav {
         display: flex;
         justify-content: space-around;
+
+    }
+    
+    .bottom h3 {
+    padding-top: 10px;
+    }
+    
 }
+    
 
 .bottom h3 {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
@@ -49,7 +57,7 @@
     font-size: 25px;
     font-weight: 500;
     letter-spacing: 2px;
-    padding-top: 10px;
+    padding-top: 20px;
     color: whitesmoke;
     
 
