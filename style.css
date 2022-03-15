@@ -16,9 +16,11 @@
 }
 
 .header img {
-    padding-top: 100px;
-    max-width: 100%;
+    padding-top: 80px;
+    max-width: 50%;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bottom {
